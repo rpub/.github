@@ -1,4 +1,6 @@
-## Hi there 👋 Welcome to my Portfolio. My favorite projects are pinned below. Thank you.
+## Hi there 👋
+
+### Welcome to my Portfolio. My favorite projects are pinned below. Thank you.
 
 <!--
 
