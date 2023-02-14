@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+### This is my portfolio on GitHub, comprised mostly of projects completed at Seattle Pacific University where I studied Computer Science and graduated in 2021. My favorite projects are pinned below. Thank you!
+
 <!--
 
 **Here are some ideas to get you started:**
