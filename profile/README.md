@@ -1,14 +1,9 @@
-## Hi there 👋
+🤖 **Rami Isaac** (he/him)
 
-### Welcome to my Portfolio. My favorite projects are pinned below. Thank you.
+### Welcome to my Portfolio ([@rpub](https://www.github.com/rpub))
 
-<!--
+Some of my favorite projects are pinned below. These are usually the data-structures heavy C++ algorithms that keep me up at night. Or maybe a web application I'd probably spent way too much time tweaking. Enjoy and thanks for stopping by. 
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+If you'd like to talk, you can connect with me on [LinkedIn](http://linkedin.com/in/raisaac/) or send me a message at [raisaac@icloud.com](raisaac@icloud.com).
